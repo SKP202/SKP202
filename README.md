@@ -1,6 +1,5 @@
 ### Hey 👋, I'm Raul.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKP202&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" />
 
 **Talking about Personal Stuffs:**
 
@@ -13,6 +12,8 @@
 
 
 **Languages and Tools:**  
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKP202&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" />
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -32,13 +33,15 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/1200px-Android_Studio_Logo_2024.svg.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" src="https://store-images.s-microsoft.com/image/apps.37179.b19e18e4-8129-4f14-9c5f-94ff9f478a8e.7039006e-f2b2-4482-98db-255ae2f58628.bd478170-6d94-42f7-b043-44f31827a0d2.png"></code>
-  
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SKP202&theme=material-palenight&count_private=true&show_icons=true" alt="Skipper" />
 
 **Technology being learned**
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SKP202&theme=material-palenight&count_private=true&show_icons=true" alt="Skipper" />
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" src="https://dac.digital/wp-content/uploads/2023/05/spring_logo-1-optimized.png"></code>
+
+
 
 **Favorite sites**
 
