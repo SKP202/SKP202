@@ -2,7 +2,7 @@
 
 
 **Talking about Personal Stuffs:**
-
+<img align="right" width="300" src="https://github.com/user-attachments/assets/02a167ec-cfba-460e-9ba9-7899b2ce5522" />
 - 👨‍🏛 I am a graduate of **UVT**.
 - 💻 Bachelor's degree in **Computer Science**.
 - 🌱 I'm currently applying for **Masters**. 
@@ -35,6 +35,7 @@
 <code><img height="40" src="https://store-images.s-microsoft.com/image/apps.37179.b19e18e4-8129-4f14-9c5f-94ff9f478a8e.7039006e-f2b2-4482-98db-255ae2f58628.bd478170-6d94-42f7-b043-44f31827a0d2.png"></code>
 
 **Technology being learned**
+
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SKP202&theme=material-palenight&count_private=true&show_icons=true" alt="Skipper" />
 
