@@ -33,7 +33,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" src="https://store-images.s-microsoft.com/image/apps.37179.b19e18e4-8129-4f14-9c5f-94ff9f478a8e.7039006e-f2b2-4482-98db-255ae2f58628.bd478170-6d94-42f7-b043-44f31827a0d2.png"></code>
   
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=SKP202&theme=material-palenight&count_private=true&show_icons=true" alt="Skipper" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=SKP202&theme=material-palenight&count_private=true&show_icons=true" alt="Skipper" />
 
 **Technology being learned**
 
