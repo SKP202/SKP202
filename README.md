@@ -5,7 +5,7 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/02a167ec-cfba-460e-9ba9-7899b2ce5522" />
 - 👨‍🏛 I am a graduate of **UVT**.
 - 💻 Bachelor's degree in **Computer Science**.
-- 🌱 I'm currently applying for **Masters**. 
+- 🌱 I'm currently studying **Cybersecurity** at **University College Dublin**. 
 - 🤔 My hobbies are **video games and sports**.
 - 🎯 I have a keen eye for **detail** and a commitment to **quality**.
 - 🚀 Let's connect! I'm always happy to meet new people.
